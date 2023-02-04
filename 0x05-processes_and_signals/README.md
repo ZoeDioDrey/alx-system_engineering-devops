@@ -29,7 +29,7 @@ Ubuntu 20.04 LTS
 Shellcheck 0.7.0
 betty linter
 Try It On Your Machine 💻
-git clone https://github.com/elameen37/alx-system_engineering-devops.git
+git clone https://github.com/ZoeDioDrey/alx-system_engineering-devops.git
 cd 0x05-processes_and_signals
 cat FILENAME
 ./FILENAME
